@@ -4,8 +4,7 @@
 
 ## team member :
 
-InfmathAxel : Demuth Axel
-
+InfmathAxel : Demuth Axel 2 
 DorianG02 : Geraldes Pereira Dorian
 
 rtlili
