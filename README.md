@@ -5,7 +5,7 @@
 ## team member :
 
 InfmathAxel : Demuth Axel
-DorianG02 : Geraldes Pereira Dorian
+Dorian : Geraldes Pereira Dorian
 
 rtlili
 
